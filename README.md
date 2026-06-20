@@ -1,1 +1,136 @@
-IyBhcGktcmVzdC1weXRob24gMHgxZjUxMAoKUkVTVCBBUEkgY29uc3RydcOtZGEgY29tICoqRmFzdEFQSSoqIGUgUHl0aG9uLCBjb20gYXV0ZW50aWNhw6fDo28gSldULCBiYW5jbyBkZSBkYWRvcyBQb3N0Z3JlU1FMIGUgZG9jdW1lbnRhw6fDo28gYXV0b23DoXRpY2EgdmlhIFN3YWdnZXIuCgotLS0KCiMjIFN0YWNrIFRlY25vbMOzZ2ljYQoKLSBbUHl0aG9uIDMuMTErXShodHRwczovL3d3dy5weXRob24ub3JnLykKLSBbRmFzdEFQSV0oaHR0cHM6Ly9mYXN0YXBpLnRpYW5nb2xvLmNvbS8pCi0gW1NRTEFsY2hlbXldKGh0dHBzOi8vd3d3LnNxbGFsY2hlbXkub3JnLykKLSBbUG9zdGdyZVNRTF0oaHR0cHM6Ly93d3cucG9zdGdyZXNxbC5vcmcvKQotIFtBbGVtYmljXShodHRwczovL2FsZW1iaWMuc3FsYWxjaGVteS5vcmcvKSAobWlncmHDp8O1ZXMpCi0gW0pXVF0oaHR0cHM6Ly9qd3QuaW8vKSAoYXV0ZW50aWNhw6fDo28pCi0gW0RvY2tlcl0oaHR0cHM6Ly93d3cuZG9ja2VyLmNvbS8pCgotLS0KCiMjIEVzdHJ1dHVyYSBkZSBQYXN0YXMKCmBgYAphcGktcmVzdC1weXRob24vCuKUnOKUgOKUgCBhcHAvCuKUgsKgwqAg4pSc4pSA4pSAIG1vZGVscy8gICAgICAgICMgTW9kZWxvcyBkbyBiYW5jbyBkZSBkYWRvcwrilILCoCDilJzilIDilIAgcm91dGVzLyAgICAgICAgIyBSb3V0ZXJzIGRhIEFQSQrilILCoCDilJzilIDilIAgc2NoZW1hcy8gICAgICAgIyBQeWRhbnRpYyBzY2hlbWFzCuKUgsKgIOKUnOKUgOKUgCBzZXJ2aWNlcy8gICAgICAjIFLDqWdyYXMgZGUgbmVnw7NjaW8K4pSCwqAg4pSc4pSA4pSAIGNvcmUvICAgICAgICAgIyBDb25maWd1cmHDp8O1ZXMgZSBzZWd1cmFuw6dhCuKUgsKgIOKUnOKUgOKUgCBkYi8gICAgICAgICAgICMgQ29uZXjDo28gZSBzZXNzw6NvIGNvbSBvIGJhbmNvCuKUgsKgIOKUlOKUgOKUgCBtYWluLnB5ICAgICAgICAjIEVudHJ5cG9pbnQgZGEgYXBsaWNhw6fDo28K4pSc4pSA4pSAIGFsZW1iaWMvICAgICAgICAgICMgTWlncmHDp8O1ZXMgZGUgYmFuY28K4pSc4pSA4pSAIHRlc3RzLyAgICAgICAgICAgICMgVGVzdGVzIHVuaXTDoXJpb3MgZSBkZSBpbnRlZ3JhY8OjbwrilJzilIDilIAgLmVudiAgICAgICAgICAgICAgIyBWYXJpw6F2ZWlzIGRlIGFtYmllbnRlCuKUnOKUgOKUgCByZXF1aXJlbWVudHMudHh0ICAgIyBEZXBlbmTDqm5jaWFzCuKUlOKUgOKUgCBkb2NrZXItY29tcG9zZS55bWwgICMgT3JxdWVzdHJhw6fDo28gZGUgY29udGFpbmVycwpgYGAKCi0tLQoKIyMgUHLDqS1yZXF1aXNpdG9zCgotIFB5dGhvbiAzLjExIG91IHN1cGVyaW9yCi0gUG9zdGdyZVNRTCAxNSsKLSBEb2NrZXIgZSBEb2NrZXIgQ29tcG9zZSAob3BjaW9uYWwsIG1hcyByZWNvbWVuZGFkbykKCi0tLQoKIyMgSW5zdGFsYcOnw6NvIExvY2FsIChzZW0gRG9ja2VyKQoKIyMjIDEuIENsb25lIG8gcmVwb3NpdMOzcmlvCgpgYGBiYXNoCmdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vVHVsaW9zcGluL2FwaS1yZXN0LXB5dGhvbi5naXQKY2QgYXBpLXJlc3QtcHl0aG9uCmBgYAoKIyMjIDIuIENyaWUgZSBhdGl2ZSBvIGFtYmllbnRlIHZpcnR1YWwKCmBgYGJhc2gKcHl0aG9uIC1tIHZlbnYgLnZlbnYKc291cmNlIC52ZW52L2Jpbi9hY3RpdmF0ZSAgIyBMaW51eC9NYWMKLy52ZW52L1NjcmlwdHMvYWN0aXZhdGUgICAgIyBXaW5kb3dzCmBgYAoKIyMjIDMuIEluc3RhbGUgYXMgZGVwZW5kw6puY2lhcwoKYGBgYmFzaApwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CmBgYAoKIyMjIDQuIENvbmZpZ3VyZSBhcyB2YXJpw6F2ZWlzIGRlIGFtYmllbnRlCgpDb3BpZSBvIGFycXVpdm8gZGUgZXhlbXBsbyBlIGVkaXRlIGNvbSBzdWFzIGNvbmZpZ3VyYcOnw7VlczoKCmBgYGJhc2gKY3AgLmVudi5leGFtcGxlIC5lbnYKYGBgCgpFZGl0ZSBvIGAuZW52YDoKCmBgYGVudgpEQVRBQkFTRV9VUkw9cG9zdGdyZXNxbDovL3VzZXI6cGFzc3dvcmRAbG9jYWxob3N0OjU0MzIvYXBpZGIKU0VDUkVUX0tFWT1zdWEtY2hhdmUtc2VjcmV0YS1hcXVpCkFDQ0VTU19UT0tFTl9FWFBJUkVfTUlOVVRFUz0zMApgYGAKCiMjIyA1LiBFeGVjdXRlIGFzIG1pZ3JhY8Ojb3MKCmBgYGJhc2gKYWxlbWJpYyB1cGdyYWRlIGhlYWQKYGBgCgojIyMgNi4gSW5pY2llIGEgYXBsaWNhw6fDo28KCmBgYGJhc2gKdXZpY29ybiBhcHAubWFpbjphcHAgLS1yZWxvYWQgLS1ob3N0IDAuMC4wLjAgLS1wb3J0IDgwMDAKYGBgCgpBIEFQSSBlc3RhcsOhIGRpc3BvbsOtdmVsIGVtOiBbaHR0cDovL2xvY2FsaG9zdDo4MDAwXShodHRwOi8vbG9jYWxob3N0OjgwMDApCgpEb2N1bWVudGHDp8OjbyBTd2FnZ2VyOiBbaHR0cDovL2xvY2FsaG9zdDo4MDAwL2RvY3NdKGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9kb2NzKQoKLS0tCgojIyBFeGVjdcOnw6NvIGNvbSBEb2NrZXIgKHJlY29tZW5kYWRvKQoKYGBgYmFzaApkb2NrZXIgY29tcG9zZSB1cCAtLWJ1aWxkCmBgYAoKQSBBUEkgZXN0YXLDoSBkaXNwb27DrXZlbCBlbTogW2h0dHA6Ly9sb2NhbGhvc3Q6ODAwMF0oaHR0cDovL2xvY2FsaG9zdDo4MDAwKQoKLS0tCgojIyBFbmRwb2ludHMgUHJpbmNpcGFpcwoKfCBNw6l0b2RvIHwgUm90YSB8IERlc2Nyacm+w6NvIHwKfC0tLS0tLS18LS0tLS0tfC0tLS0tLS0tLS0tfAp8IFBPU1QgfCAvYXV0aC9yZWdpc3RlciB8IENhZGFzdHJhciB1c3XDoXJpbyB8CnwgUE9TVCB8IC9hdXRoL2xvZ2luIHwgT2J0ZXIgdG9rZW4gSldUIHwKfCBHRVQgfCAvdXNlcnMvbWUgfCBQZXJmaWwgZG8gdXN1w6FyaW8gYXV0ZW50aWNhZG8gfAp8IEdFVCB8IC9pdGVtcyB8IExpc3RhciB0b2RvcyBvcyBpdGVucyB8CnwgUE9TVCB8IC9pdGVtcyB8IENyaWFyIG5vdm8gaXRlbSB8CnwgUFVUIHwgL2l0ZW1zL3tpZH0gfCBBdHVhbGl6YXIgaXRlbSB8CnwgREVMRVRFIHwgL2l0ZW1zL3tpZH0gfCBSZW1vdmVyIGl0ZW0gfAoKLS0tCgojIyBUZXN0ZXMKCmBgYGJhc2gKcHl0ZXN0IHRlc3RzLyAtdgpgYGAKCi0tLQoKIyMgTGljZW7Dp2EKCk1JVCBMaWNlbnNlIMKpIDIwMjYgVMO6bGlvIFNpbHZhCg==
+# api-rest-python
+
+REST API construída com **FastAPI** e Python, com autenticação JWT, banco de dados PostgreSQL e documentação automática via Swagger.
+
+---
+
+## Stack Tecnológica
+
+- [Python 3.11+](https://www.python.org/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [SQLAlchemy](https://www.sqlalchemy.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Alembic](https://alembic.sqlalchemy.org/) (migrações)
+- [JWT](https://jwt.io/) (autenticação)
+- [Docker](https://www.docker.com/)
+
+---
+
+## Estrutura de Pastas
+
+```
+api-rest-python/
+├── app/
+│   ├── models/        # Modelos do banco de dados
+│   ├── routes/        # Routers da API
+│   ├── schemas/       # Pydantic schemas
+│   ├── services/      # Regras de negócio
+│   ├── core/          # Configurações e segurança
+│   ├── db/            # Conexão e sessão com o banco
+│   └── main.py        # Entrypoint da aplicação
+├── alembic/           # Migrações de banco
+├── tests/             # Testes unitários e de integração
+├── .env
+├── .env.example
+├── requirements.txt
+└── docker-compose.yml
+```
+
+---
+
+## Pré-requisitos
+
+- Python 3.11 ou superior
+- PostgreSQL 15+
+- Docker e Docker Compose (opcional, mas recomendado)
+
+---
+
+## Instalação Local (sem Docker)
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Tuliospin/api-rest-python.git
+cd api-rest-python
+```
+
+### 2. Crie e ative o ambiente virtual
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # Linux/Mac
+.venv\Scripts\activate      # Windows
+```
+
+### 3. Instale as dependências
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Configure as variáveis de ambiente
+
+```bash
+cp .env.example .env
+```
+
+Edite o `.env`:
+
+```env
+DATABASE_URL=postgresql://user:password@localhost:5432/apidb
+SECRET_KEY=sua-chave-secreta-aqui
+ACCESS_TOKEN_EXPIRE_MINUTES=30
+```
+
+### 5. Execute as migrações
+
+```bash
+alembic upgrade head
+```
+
+### 6. Inicie a aplicação
+
+```bash
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+```
+
+API disponível em: [http://localhost:8000](http://localhost:8000)
+
+Documentação Swagger: [http://localhost:8000/docs](http://localhost:8000/docs)
+
+---
+
+## Execução com Docker (recomendado)
+
+```bash
+docker compose up --build
+```
+
+---
+
+## Endpoints Principais
+
+| Método | Rota | Descrição |
+|--------|------|------------|
+| POST | /auth/register | Cadastrar usuário |
+| POST | /auth/login | Obter token JWT |
+| GET | /users/me | Perfil do usuário autenticado |
+| GET | /items | Listar todos os itens |
+| POST | /items | Criar novo item |
+| PUT | /items/{id} | Atualizar item |
+| DELETE | /items/{id} | Remover item |
+
+---
+
+## Testes
+
+```bash
+pytest tests/ -v
+```
+
+---
+
+## Licença
+
+MIT License © 2026 Túlio Silva
